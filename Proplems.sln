@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33214.272
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepeatingCharacters", "LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{724CE1CE-751D-4043-A780-A38614D5FD36}"
 EndProject
@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseWordsinaStringIII", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{3CE8D025-8A1D-49CE-8101-DF72DA940DAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountandSay", "CountandSay\CountandSay.csproj", "{428E75D8-7E70-419B-A9F3-75BFBF226A49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountandSay", "CountandSay\CountandSay.csproj", "{428E75D8-7E70-419B-A9F3-75BFBF226A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringtoInteger(atoi)", "StringtoInteger(atoi)\StringtoInteger(atoi).csproj", "{E272A2DA-2BC1-43EE-AE86-0B56EC8AF891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{428E75D8-7E70-419B-A9F3-75BFBF226A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{428E75D8-7E70-419B-A9F3-75BFBF226A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{428E75D8-7E70-419B-A9F3-75BFBF226A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E272A2DA-2BC1-43EE-AE86-0B56EC8AF891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E272A2DA-2BC1-43EE-AE86-0B56EC8AF891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E272A2DA-2BC1-43EE-AE86-0B56EC8AF891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E272A2DA-2BC1-43EE-AE86-0B56EC8AF891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
